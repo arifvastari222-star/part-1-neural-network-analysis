@@ -1,0 +1,4 @@
+Experiment,Epochs,Batch Size,Hidden Layers,Test Accuracy
+Baseline Model,20,32,16-8,0.9825000166893005
+Increased Neurons,20,32,32-16,0.9825000166893005
+Different Batch Size and Epochs,40,16,16-8,0.9825000166893005
